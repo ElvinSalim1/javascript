@@ -10,7 +10,7 @@
                                             (python)
     Java är inte Javascript!
     Högnivå språk (mellan användaren och systemet)
-    -------------------------------------------------
+    ------------------------------------------------
     (Javascript)
     Python
     C# / Java
