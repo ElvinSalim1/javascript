@@ -4,7 +4,7 @@
         List:       public List<string> names = new List();
     JS
         Array:      let names = [];
-                    const name = []; (kan lägga till och ta bort i arrayen trots att det är const).
+                    const name = []; (kan lägga till och ta bort i arrayen trots att det är const)
 */
 
 // DETTA ÄR FEL SÄTT!
