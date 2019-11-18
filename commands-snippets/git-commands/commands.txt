@@ -12,7 +12,7 @@ git add .
 # För att spara nya filer och ändrade filer
 git commit -m "Ett vettigt meddelande"
 
-# För att synka den lokala giten med din github
+# För att synka den lokala giten med din githuba
 git push -u origin master
 
 
