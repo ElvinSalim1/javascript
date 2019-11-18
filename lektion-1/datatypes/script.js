@@ -2,7 +2,7 @@
 
 /*
         Javascript
-        -----------------------------------------------
+        ------------------------------------------------
         String      =   Text
         Number      =   Tal, decimaltal
         Boolean     =   Sant/falskt true/false
